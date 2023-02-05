@@ -6,4 +6,6 @@ int main(){
 	cout<<"Edited 1st time."<<endl;
 	cout<<"Edited in the Refactor branch."<<endl;
 	cout<<"Edited in the Refactor branch 2nd time."
+	
+	return 0;
 }
