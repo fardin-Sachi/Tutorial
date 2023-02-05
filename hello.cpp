@@ -1,8 +1,14 @@
 #include<iostream>
-using namespace std
+using namespace std;
 int main(){
 	cout<<"Hello this is the first cpp file in git."<<endl;
 	cout<<"Edited in the local repo."<<endl;
 	cout<<"Edited 1st time."<<endl;
+<<<<<<< HEAD
 	cout<<"Edited 2nd time in main branch."<<endl;
+=======
+
+	cout<<"Edited in the Refactor branch."<<endl;
+
+>>>>>>> a617f4c (Edited the hello.cpp file in the refactor branch for the 1st time.)
 }
