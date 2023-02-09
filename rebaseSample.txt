@@ -1,4 +1,0 @@
-Main Branch Commit-1
-Main Branch Commit-2
-Rebase Branch Commit-1
-Rebase Branch Commit-2
